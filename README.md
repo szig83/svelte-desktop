@@ -1,0 +1,16 @@
+# Tech stack
+
+- Svelte (frontend)
+- SvelteKit (backend)
+- TailwindCSS (design system)
+- Drizzle (ORM)
+- Postgres (database)
+- Inlang (i18n)
+- Winston (logging)
+- Superforms (form handling)
+- Valibot (validation)
+- Vitest (testing)
+- Playwright (e2e testing)
+- ESLint (linting)
+- Prettier (formatting)
+- Bun (runtime)
